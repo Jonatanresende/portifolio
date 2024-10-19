@@ -222,8 +222,8 @@ a:hover {
 
 .navbar-header .navbar-brand img {
   width: 120px;
-  height: 45px;
-  padding-bottom: 10px;
+  height: 90px;
+  padding-bottom: 20px;
 }
 
 .navbar-inverse .navbar-toggle {
@@ -1556,6 +1556,11 @@ px      68    160    252    */
   }
   .navbar-header .navbar-brand a {
     padding: 6px 8px;
+  }
+  .navbar-header .navbar-brand img {
+    width: 80px;
+    height: 60px;
+    padding-bottom: 15px;
   }
   #hero-area {
     padding: 140px 0;
